@@ -1,0 +1,141 @@
+body {font-family: 'Dancing Script', cursive;
+      background-color: lightyellow;
+      width: 1920px;
+      margin-left: 50px;
+     }
+
+table,td,th{border:1px solid#000;
+         text: yellow;
+         margin-top: 50px;
+/*         margin-left: 50px; */
+        }
+
+thead{color: green;
+     text-transform: capitalize;
+     }
+
+tbody{color: yellow;
+     }
+
+ul,li {display: inline-block;}
+
+
+ul{list-style-type: disc;}
+
+#head {margin-top: 20px;}
+#icone-social li{margin-left: 20px}
+
+.logo {width: 200px;
+       height: 200px;
+       float: left;
+      }
+
+.box-menu {width: 600px;
+           height: 300px;
+           float: right;
+           margin-top: -40px;
+          }
+
+.Label {color: blue;
+        font-family: 'Dosis', sans-serif;
+        font-size: 25px;
+        text-transform:capitalize;
+       }
+
+.Label a {color: blue;
+          font-family: 'Dosis', sans-serif;
+          font-size: 25px;
+          text-transform:capitalize;
+         }
+
+.Ritratti {font-family: 'Dancing Script', cursive;
+           background-color: lightblue;
+           align: center;
+          }
+
+.Ritratti a {font-family: 'Dancing Script', cursive;
+             font-size: 25px;
+             color: green;
+            }
+
+.Cronologia {background-color: lightblue;
+             border:1px solid#000;
+             width: 600px;
+             height: 200px;
+            }
+
+.Cronologia a {color: green;
+               font-family: 'Dancing Script', cursive;
+               text-transform: uppercase;
+              }
+
+.box-video {width:1600px;
+           }
+
+.spazio {margin-left: 20px;}
+
+.Footer {color: black;
+         font-family: 'Dosis', sans-serif;
+         text-transform: capitalize;
+         text-align: center;
+         background-color: lightyellow;
+        }
+
+
+/*
+#box-logo {background-color: #ccc;
+           width: 400px;
+           height: 200px;
+           float: left;
+      }
+
+#logo {
+       width: 200px;
+       height: 200px;
+       float: left;
+      }
+
+#box-menu {width: 600px;
+           height: 300px;
+           float: right;
+           margin-top: -40px;
+          }
+
+#main {margin-top: 40px;}
+
+#box-video {width:1600px;
+           }
+
+.Centrato{text-transform:uppercase;
+           background-color: lightblue;
+          border:1px solid#000;
+          text-align: center;
+          }
+
+.border td,a,tr{border-color: black;
+                border:1px;
+               }
+
+.no_border td,h3{border-color: green;
+                 border:0px;
+                }
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Home {font-family: 'Dosis', sans-serif;
+       font-weight: 400;
+       text-align: center;
+      }
